@@ -1,0 +1,40 @@
+.information{
+    height:90vh;
+    width:800px;
+    background-color: #1C1C26;
+    position: fixed;
+    top: 30px;
+    padding: 20px;
+    z-index: 20;
+
+}
+
+
+.text-area{
+    height: 400px;
+    width: 600px;
+    background-color: transparent;
+    border:1px solid rgba(255, 255, 255, 0.116);
+    outline: none;
+    padding: 20px;
+    font-size: 16px;
+    color: gray;
+}
+.information h3{
+    margin: 0px;
+}
+.information p{
+    margin: 10px 0px;
+}
+
+.btn{
+    background-color: #5d5de0;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+    cursor: pointer;
+
+    border-radius: 4px;
+}
